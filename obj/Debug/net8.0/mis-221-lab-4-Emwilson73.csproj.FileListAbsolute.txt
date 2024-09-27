@@ -1,0 +1,15 @@
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\mis-221-lab-4-Emwilson73.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\mis-221-lab-4-Emwilson73.AssemblyInfoInputs.cache
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\mis-221-lab-4-Emwilson73.AssemblyInfo.cs
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\mis-221-lab-4-Emwilson73.csproj.CoreCompileInputs.cache
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\mis-221-lab-4-Emwilson73.sourcelink.json
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\bin\Debug\net8.0\mis-221-lab-4-Emwilson73.exe
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\bin\Debug\net8.0\mis-221-lab-4-Emwilson73.deps.json
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\bin\Debug\net8.0\mis-221-lab-4-Emwilson73.runtimeconfig.json
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\bin\Debug\net8.0\mis-221-lab-4-Emwilson73.dll
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\bin\Debug\net8.0\mis-221-lab-4-Emwilson73.pdb
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\mis-221-lab-4-Emwilson73.dll
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\refint\mis-221-lab-4-Emwilson73.dll
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\mis-221-lab-4-Emwilson73.pdb
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\mis-221-lab-4-Emwilson73.genruntimeconfig.cache
+C:\Users\buste\mis221\labs\221\Labs\lab4\mis-221-lab-4-Emwilson73\obj\Debug\net8.0\ref\mis-221-lab-4-Emwilson73.dll
