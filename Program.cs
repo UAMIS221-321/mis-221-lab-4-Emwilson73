@@ -64,11 +64,24 @@ static void CheeseSliceStart() {
 }
 }
 
-static string PepSliceStart() {
+static void PepSliceStart() {
     Random rnd = new Random();
     int rows = rnd.Next(8,13);
-    for (int i = rows; i > 0; i--){
-
+    for (int i = rows; i >= 1; i--){
+        for (int j = 1; j <= i; j++){
+            if (i == rows || j == i || j == 1){
+                Console.Write("*");
+            }
+            else {
+                if(rnd.Next(0,5) == 0){
+                    Console.Write("[]");
+                }
+                else {
+                    Console.Write("#");
+                }
+            }
+        }
+        Console.WriteLine();
     }
 }
 
