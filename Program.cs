@@ -10,7 +10,7 @@ while(userInput != "4"){
 //end main
 
 static void DisplayMenu(){
-	System.Console.WriteLine("Welcome to Crimson Crust Pizza Shop!\nEnter 1 to Preview a Plain Slice\nEnter 2 to Preview a Cheese Slice\nEnter 3 to Preview a Pepperoni Slice\nEnter 4 to EXIT");
+	System.Console.WriteLine("Welcome to Crimson Crust Pizza Shop!\n1: Preview a Plain Slice\n2: Preview a Cheese Slice\n3: to Preview a Pepperoni Slice\n4: EXIT\nEnter 1-4 to Select");
 }
 
 static string GetUserInput(){
@@ -46,6 +46,8 @@ static void PlainSliceStart() {
         }
         Console.WriteLine();
     }
+    System.Console.WriteLine("Press Any Key to Continue...");
+    Console.ReadKey();
 }
 
 static void CheeseSliceStart() {
@@ -62,6 +64,8 @@ static void CheeseSliceStart() {
     }
         Console.WriteLine();
 }
+System.Console.WriteLine("Press Any Key to Continue...");
+Console.ReadKey();
 }
 
 static void PepSliceStart() {
@@ -73,7 +77,7 @@ static void PepSliceStart() {
                 Console.Write("*");
             }
             else {
-                if(rnd.Next(0,5) == 0){
+                if (rnd.Next(0,5) == 0){
                     Console.Write("[]");
                 }
                 else {
@@ -83,6 +87,8 @@ static void PepSliceStart() {
         }
         Console.WriteLine();
     }
+    System.Console.WriteLine("Press Any Key to Continue...");
+    Console.ReadKey();
 }
 
 static void SayBye(){
@@ -91,4 +97,6 @@ static void SayBye(){
 
 static void DisplayErrorMessage(){
     Console.WriteLine("Invalid Input, Try Again");
+    System.Console.WriteLine("Press Any Key to Continue...");
+    Console.ReadKey();
 }
